@@ -105,3 +105,4 @@ ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#_331
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.113:8009#%F0%9F%87%BA%F0%9F%87%B8US_834
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8882#%F0%9F%87%BA%F0%9F%87%B8US_837
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@193.182.144.65:989#_383
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.17.148.22:443?encryption=none&security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251%23tTel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.148.22%3A443
